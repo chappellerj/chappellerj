@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chappellerj.
+- 👋 Hi, I’m Ryan Chappelle
 - 👀 I’m interested in App development as well as coding in general.
 - 🌱 I’m currently learning Swift and Xcode.
 - 💞️ I’m looking to collaborate on any project in c++ or Swift. 
-- 📫 How to reach me: 425-765-6059.
+- 📫 How to reach me: Email: Chappellerj@gmail.com
 
 <!---
 chappellerj/chappellerj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
